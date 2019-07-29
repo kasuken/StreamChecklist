@@ -1,0 +1,17 @@
+{
+  "name": "Stream Checklist",
+  "short_name": "Stream Checklist",
+  "description": "An useful pre-stream checklist activities for Twitch/Mixer streamers",
+  "icons": [
+    {
+      "src": "/img/android-chrome-192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/android-chrome-512x512.png",
+      "sizes": "512x512"
+    }
+  ],
+  "display": "standalone",
+  "start_url": "/"
+}
